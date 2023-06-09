@@ -9,7 +9,7 @@ cd /home/developer/app
 #get packages
 flutter pub get
 # Build the APK
-flutter build apk --no-shrink --no-android-gradle-daemon
+flutter build apk 
 
 
 
